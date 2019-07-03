@@ -5,6 +5,7 @@
 
 #jumbotron2{
 background-color:lightgrey;
+border:solid 5px rgb(180, 207, 185)
 width: 710px;
 /* height: 500px; */
 padding: 0 0;
@@ -14,6 +15,7 @@ margin-left: 90px;
 
 #jumbotron3{
 background-color:lightgrey;
+border:solid 5px rgb(180, 207, 185)
 width: 500px;
 /* height: 500px; */
 padding: 0 0;
